@@ -1,0 +1,23 @@
+{
+  "name": "electron-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ys558/electron-template-of-react-or-vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ys558/electron-template-of-react-or-vue/issues"
+  },
+  "homepage": "https://github.com/ys558/electron-template-of-react-or-vue#readme",
+  "scripts": {
+    "start:main": "electron ./app/main/electron.js"
+  },
+  "dependencies": {
+    "electron": "^13.1.1"
+  }
+}
